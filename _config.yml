@@ -131,8 +131,8 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://linkedin.com/in/yejin-lee-23556a12b"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yejin-lee-23556a12b"
 
 # Site Footer
 footer:
@@ -144,8 +144,8 @@ footer:
       icon: "fab fa-fw fa-github"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://linkedin.com/in/yejin-lee-23556a12b"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yejin-lee-23556a12b"
 
 
 # Reading Files
