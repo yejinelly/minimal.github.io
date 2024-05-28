@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Yejin Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/프로필_수원.jpg"
   bio              : "Clinical Psychology Ph.D. Applicant"
   location         : "Seoul, KOR"
   email            :
