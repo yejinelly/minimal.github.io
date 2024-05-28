@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "Posts"
+    url: /posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
