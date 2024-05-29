@@ -3,8 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+sidebar_main: true
 ---
 
 {% include base_path %}
